@@ -43,6 +43,10 @@ SPACING SYSTEM (px)
     padding: 0 3.2rem;
   }
 
+  .hero {
+    gap: 4.8rem;
+  }
+
   .grid {
     column-gap: 4.8rem;
     row-gap: 6.4rem;
